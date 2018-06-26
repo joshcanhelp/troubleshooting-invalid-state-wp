@@ -1,7 +1,5 @@
 # Troubleshooting invalid state in WP-Auth0
 
-## Troubleshooting "Invalid state"
-
 We added state validation to the WordPress plugin in [version 3.6.0](https://github.com/auth0/wp-auth0/releases/tag/3.6.0). This security measure helps mitigate CSRF attacks by ensuring that the response belongs to a request that was initiated by the same user ([more information on state validation here](https://auth0.com/docs/protocols/oauth2/oauth-state)). 
 
 It works in the plugin by:
