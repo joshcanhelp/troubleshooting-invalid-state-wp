@@ -44,6 +44,7 @@ If none of the steps above resolve the issue, please collect the results of the 
 - Browser and OS used to test
 - A [HAR file](https://support.zendesk.com/hc/en-us/articles/204410413-Generating-a-HAR-file-for-troubleshooting) recording the entire process from loading the page with the login form all the way through the "Invalid state" message. 
 
-## Related Community posts:
+## Related posts:
 
 - ["Invalid state" error during Auth0 WordPress redirect](https://community.auth0.com/t/invalid-state-error-during-auth0-wordpress-redirect/12552/9)
+- [Invalid state when visiting the callback URL directly](https://wordpress.org/support/topic/unable-to-resolve-troubleshooting-with-a-client-grant-for-already-exists/)
